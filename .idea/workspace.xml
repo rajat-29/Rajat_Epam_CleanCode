@@ -26,6 +26,14 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn clean" />
+      <command value="mvn compile" />
+    </option>
   </component>
   <component name="RunManager" selected="Application.App (1)">
     <configuration name="App (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -75,21 +83,58 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1581931158992">
+    <state x="275" y="23" key="#Notifications" timestamp="1582439962697">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1581931158992" />
-    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1581931158992">
+    <state x="275" y="23" key="#Notifications/0.0.1366.728@0.0.1366.728" timestamp="1582439962697" />
+    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1582462934455">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1581931158992" />
-    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1581931158991">
+    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1582462934455" />
+    <state width="1323" height="219" key="GridCell.Tab.0.bottom" timestamp="1582471807229">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1581931158991" />
-    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1581931158992">
+    <state width="1323" height="219" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1582471807229" />
+    <state width="1323" height="219" key="GridCell.Tab.0.center" timestamp="1582471807229">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1581931158992" />
+    <state width="1323" height="219" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1582471807229" />
+    <state width="1323" height="219" key="GridCell.Tab.0.left" timestamp="1582471807228">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="219" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1582471807228" />
+    <state width="1323" height="219" key="GridCell.Tab.0.right" timestamp="1582471807229">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="219" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1582471807229" />
+    <state x="213" y="19" key="Maven.ArtifactSearchDialog" timestamp="1582471228577">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="213" y="19" key="Maven.ArtifactSearchDialog/0.0.1366.728@0.0.1366.728" timestamp="1582471228577" />
+    <state x="184" y="7" key="SettingsEditor" timestamp="1582463513205">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="184" y="7" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1582463513205" />
+    <state x="378" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1582463349174">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="378" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1582463349174" />
+    <state x="65" y="60" key="new project wizard" timestamp="1582442167224">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="65" y="60" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1582442167224" />
+    <state x="339" y="162" width="672" height="677" key="run.anything.popup" timestamp="1582463847075">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="339" y="162" width="672" height="677" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1582463847075" />
+    <state x="346" y="49" key="search.everywhere.popup" timestamp="1582471536344">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1582471536344" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/EPAM_CleanCode$App.ic" NAME="App Coverage Results" MODIFIED="1582440553450" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>org.example.Area.*</FILTER>
+    </SUITE>
   </component>
 </project>
